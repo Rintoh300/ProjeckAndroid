@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    //Menentukan gambar gradient sumber https://angrytools.com/gradient/
+    <gradient
+        android:type="linear"
+        android:startColor="#dc3c78"
+        android:endColor="#60476a"
+        android:angle="90"/>
+
+
+</shape>
